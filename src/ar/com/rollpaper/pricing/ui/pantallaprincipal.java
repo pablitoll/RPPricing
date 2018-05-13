@@ -17,7 +17,7 @@ public class pantallaprincipal {
 				try {
 					pantallaprincipal window = new pantallaprincipal();
 					window.frame.setVisible(true);
-					System.out.print("d");
+					System.out.print("dd");
 				} catch (Exception e) {
 					e.printStackTrace();
 				}
